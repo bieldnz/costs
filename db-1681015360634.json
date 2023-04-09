@@ -1,0 +1,70 @@
+{
+  "projects": [
+    {
+      "name": "NOSSO PROJETO",
+      "budget": "10000000005094811",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 2214,
+      "services": [
+        {
+          "name": "projeto11",
+          "cost": "4",
+          "description": "Denovo",
+          "id": "69971f12-96a2-4857-a3bf-bcf69d105639"
+        },
+        {
+          "name": "NOSSO PROJETO",
+          "cost": "7",
+          "description": "mais um denovo",
+          "id": "2527a6b4-b83c-4280-875c-8fb970495c45"
+        },
+        {
+          "name": "NOSSO PROJETO",
+          "cost": "100",
+          "description": "mais um denovo",
+          "id": "6e76283d-7273-4578-8ef8-ab0a44fadf51"
+        },
+        {
+          "name": "NOSSO PROJETO",
+          "cost": "300",
+          "description": "Denovo",
+          "id": "b3c35c0e-c4e0-4c0f-9e1a-ebfc4df5f0c5"
+        },
+        {
+          "name": "VPSSJSOÇI",
+          "cost": "1",
+          "description": "MIS OUTRO MANo",
+          "id": "bc3fafce-54fa-4720-be67-7b841285a394"
+        },
+        {
+          "name": "OTRO",
+          "cost": "2",
+          "description": "MAR Um",
+          "id": "50605cdd-1b1d-44c2-ab78-37b130ee5f22"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 2,
+      "name": "Infra"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
